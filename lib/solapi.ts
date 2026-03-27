@@ -75,7 +75,7 @@ export async function sendSMS(
   }
 
   // 인증번호 형식 검증
-  if (!code || !/^\d{3}$/.test(code)) {
+  if (!code || !/^\d{6}$/.test(code)) {
     throw new Error('유효하지 않은 인증번호 형식입니다.');
   }
 

@@ -18,7 +18,7 @@ export async function GET(req: NextRequest) {
   }
 
   const userId = BigInt(session.user.id);
-  const rebalancingService = new RebalancingService(prisma);
+  const rebalancingService = new RebalancingService({ prismaClient: prisma });
 
   try {
     const response =

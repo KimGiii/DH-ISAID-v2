@@ -162,7 +162,7 @@ export default function RegisterForm() {
     }
 
     if (field === 'verificationCode') {
-      const raw = value.replace(/\D/g, '').slice(0, 3);
+      const raw = value.replace(/\D/g, '').slice(0, 6);
       setFormData((prev) => ({ ...prev, verificationCode: raw }));
 
       setValidationErrors((prev) => ({

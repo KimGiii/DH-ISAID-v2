@@ -3,8 +3,8 @@ import {
   EtfRecommendationResponse,
   MetricsData,
   ProcessedEtfData,
-  WeightsData,
 } from '@/services/etf/etf-recommend-service';
+import { WeightsData } from '@/utils/etf-recommend-utils';
 import { InvestType } from '@prisma/client';
 
 // Mock ETF 데이터 생성
