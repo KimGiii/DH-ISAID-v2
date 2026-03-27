@@ -1,195 +1,164 @@
-# <img src="/public/images/star-boy-good.svg" width="40"> ISAID
+## 🌱 ISA로 시작하는 절세 투자, MZ세대 맞춤형 투자 솔루션
 
 
-> **ISAID**는 MZ세대를 위한  
-> **맞춤형 ISA 포트폴리오 분석 서비스**입니다.  
+![image](https://github.com/user-attachments/assets/0817ed29-703b-4bed-90f0-43f8cac827bd)
+
+
+<br/>
+
+### 🙌🏻 프로젝트 소개
+
+> **🧐 ISA? ETF 추천? 제대로 관리해보고 싶은데 너무 막막해요.**
 >
-> 
-> 최근 MZ세대를 중심으로 투자에 대한 관심은 높아졌지만,  
-> ISA 계좌의 구조나 세제 혜택, ETF 포트폴리오 구성은 여전히 복잡하고 진입장벽이 높습니다.  
-> ISAID는 이러한 복잡함을 덜고, 누구나 직관적으로 투자 흐름을 파악할 수 있도록 기획되었습니다.
->
+> ISAID는 MZ세대를 위해 ISA 절세, ETF 추천, 리밸런싱, 가이드, 챌린지 미션까지 한 번에 관리할 수 있는 플랫폼입니다.
+> 투자, 이제 어렵지 않게. ISAID와 함께 재미있게 시작해보세요.
 
 
+- `개발 기간` : **2025.06.05 ~ 2025.07.03**
+- `서비스 배포 URL` :  [https://isaid.site](https://isaid.site) 
+- `시연 영상 URL` : [https://www.youtube.com/watch?v=iiYrQJj9y_g](https://www.youtube.com/watch?v=iiYrQJj9y_g)
 
+<br/>
 
+### 🙋🏻‍♀️ 주요 기능 소개
 
+![image](https://github.com/user-attachments/assets/c1035788-6d3d-4455-bcb2-5d56fcae8956)
 
+![image](https://github.com/user-attachments/assets/2500aeb3-274e-4fee-80b8-c3ee6460b8a0)
 
-🔗 배포주소 :  [https://isaid.site/](https://isaid.site/) 
+![image](https://github.com/user-attachments/assets/1cecbac0-8914-4cd8-ada5-d6394347cecc)
 
+![image](https://github.com/user-attachments/assets/46997a7d-cdb7-4129-8531-4c0e7f049d8b)
 
----
+![image](https://github.com/user-attachments/assets/90c64749-47b8-4a43-8143-1af6789aa16b)
 
-<br>
+<br/>
 
-## System Architecture
+### 📍 세부 기능 요약
+
+| 분류 | 기능 | 설명 |
+|------|------|------|
+| 사용자 | 회원가입 / 로그인 | 이메일로 간편하게 가입하고, JWT로 안전하게 로그인해요. |
+| ISA  | ISA 계좌 등록/삭제 | 내 ISA 계좌, 필요할 때 등록하고 언제든 삭제할 수 있어요. |
+| ISA  | 수익률 조회 | 매달 얼마나 벌었는지, 월별 수익률로 딱 보여드려요. |
+| ISA  | 포트폴리오 리밸런싱 | 지금 보유 중인 자산 기준 리밸런싱 제안으로 쉽게 관리해요. |
+| ISA  | 절세 리포트 | 지금까지 아낀 금액은? 일상 속 금액으로 쉽게, 직관적으로 계산해드려요. |
+| ETF | 테마 / 카테고리별 ETF 조회 | 관심 있는 테마나 카테고리로, ETF 골라보세요. |
+| ETF | 투자 성향 테스트 | 내 투자 스타일이 뭔지 궁금할 땐? 몇 가지 질문으로 진단해드려요. |
+| ETF | 맞춤 ETF 추천 | 투자 성향과 목표에 맞는 ETF를 똑똑하게 추천해드려요. |
+| ETF | ETF 차트 및 구성 | ETF 구성 비중이 어떻게 되는지, 수익률은 어떤지 한눈에 보여드려요. |
+| 퀴즈 | 금융 퀴즈 | 가볍게 퀴즈 풀면서 금융 상식 쌓고, 기록도 남겨보세요. |
+| 챌린지 | 동기부여 | 투자 미션 달성하면 보상 팡팡! 하나하나 쌓이는 ETF 조각과 함께 투자 고수가 되어 보세요. |
+| 가이드 | MZ세대를 위한 금융 가이드 | 숏폼으로 보는 금융 가이드, 지금 필요한 정보만 쏙쏙! |
+
+<br/>
+
+### 🧑🏻‍💻👩🏻‍💻 팀원 소개
+| <img src="https://avatars.githubusercontent.com/dbstj0403" width="130"/> | <img src="https://avatars.githubusercontent.com/HyejeongSon" width="130"/> | <img src="https://avatars.githubusercontent.com/hyo-joon" width="130"/> | <img src="https://avatars.githubusercontent.com/jjinleee" width="130"/> | <img src="https://avatars.githubusercontent.com/KimGiii" width="130"/> | <img src="https://avatars.githubusercontent.com/VarGun" width="130"/> |
+|:--:|:--:|:--:|:--:|:--:|:--:|
+| **Yoonseo Won**<br>[@dbstj0403](https://github.com/dbstj0403)<br/> | **Hyejeong Son**<br>[@HyejeongSon](https://github.com/HyejeongSon)<br/> | **Hyo-joon**<br>[@hyo-joon](https://github.com/hyo-joon)<br/> | **Jin Lee**<br>[@jjinleee](https://github.com/jjinleee)<br/>| **Gibo Kim**<br>[@KimGiii](https://github.com/KimGiii)<br/> | **Heegun Kwak**<br>[@VarGun](https://github.com/VarGun)<br/> |
+
+<br/>
+
+### 🔧 System Architecture Diagram
 <p align="left">
   <img src="https://github.com/user-attachments/assets/acb31cd6-edfd-488d-8c3c-0b3b329b4505" width="600"/>
 </p>
 
-<br>
+<br/>
 
-<br>
-
-## ERD
+### 🖇️ ERD
 <p align="left">
  <img src="https://github.com/user-attachments/assets/efb185f2-5db4-4c8e-ae10-428bf5443cc8"/>
 </p>
 
-<br>
-<br>
+<br/>
 
+### 🗂️ 폴더 구조
+```
+.
+├── __mocks__
+├── __tests__
+│   ├── api
+│   ├── helpers
+│   └── services
+├── app
+│   ├── (routes)
+│   │   ├── (auth)
+│   │   ├── challenge
+│   │   ├── etf
+│   │   ├── guide
+│   │   ├── isa
+│   │   ├── main
+│   │   ├── mypage
+│   │   └── quiz
+│   ├── actions
+│   ├── api
+│   │   ├── auth
+│   │   ├── challenge
+│   │   ├── etf
+│   │   ├── isa
+│   │   ├── isa-profit-test
+│   │   ├── quiz
+│   │   ├── sentry-example-api
+│   │   └── user
+│   └── sentry-example-page
+├── components
+│   ├── bottom-bar
+│   ├── guide
+│   ├── header-bar
+│   ├── root
+│   └── ui
+├── context
+├── data
+├── hooks
+├── lib
+│   ├── api
+│   ├── data
+│   │   ├── etf
+│   │   ├── general
+│   │   └── insert-all
+│   ├── db
+│   ├── schemas
+│   └── test
+├── prisma
+│   └── migrations
+├── public
+├── services
+│   ├── challenge
+│   ├── etf
+│   └── isa
+├── stories
+│   └── common
+├── types
+└── utils
+```
 
-## 화면 구성
-
-| 첫 화면 | 홈 화면 | ETF 챌린지 | 데일리 퀴즈 |
-|--|--|--|--|
-| ![](https://github.com/user-attachments/assets/27578b73-4b72-42c9-b821-cd61a79c489d) | ![](https://github.com/user-attachments/assets/e3f7045b-e034-4d21-a977-50550e1d1f49)  | ![](https://github.com/user-attachments/assets/335916e3-d50b-4185-8279-6c5e7c30bb53)  | ![](https://github.com/user-attachments/assets/4c2574e1-8dcd-42d7-92b4-40574c3ed9fa)  |
-
-| ETF 투자성향 테스트 | ETF 추천 | ETF 상세보기 | 마이페이지 |
-|--|--|--|--|
-| ![](https://github.com/user-attachments/assets/c1b5582a-6062-413b-95f1-6861fa2b81fb) | ![](https://github.com/user-attachments/assets/10b619a3-d3e3-4fe9-8b72-e9d5fcf7362c) | ![](https://github.com/user-attachments/assets/19ede02e-96be-442b-bb29-88441c4d597d)  | ![](https://github.com/user-attachments/assets/46c26371-cec6-4c5b-a360-1aa8c24133b4)  |
-
-| ETF 투자 성향 테스트 | 금융 가이드  | 카테고리별 가이드 | 숏츠 가이드 |
-|--|--|--|--|
-| ![](https://github.com/user-attachments/assets/935a03f0-4ed8-48cc-ad3f-7ebdb9823b75) | ![](https://github.com/user-attachments/assets/b6e9fdb4-95a6-49fd-818a-1325b4d65b67) | ![](https://github.com/user-attachments/assets/1cd818bf-604f-467b-b4b6-e7f63a94aeaa) | ![](https://github.com/user-attachments/assets/4e94493e-8d9b-4b53-ae05-5762309f76c0) |
-
-
-
-<br>
-<br>
-
-## ⚙️ 주요 기능 요약
-
-| 분류 | 기능 | 설명 |
-|------|------|------|
-| 사용자 | 회원가입 / 로그인 | 자체 인증 기반 회원 시스템 (Credentials + JWT) |
-| ISA 계좌 | ISA 계좌 등록/삭제 | 사용자는 ISA 계좌를 등록하고 삭제할 수 있음 |
-| ISA 계좌 | 수익률 조회 | 월별 기준으로 자산 수익률을 계산해 제공 |
-| ISA 계좌 | 포트폴리오 리밸런싱 | 기존 보유 ETF 기준으로 리밸런싱을 추천 |
-| ISA 계좌 | 절세 계산기 | 예상 절세 효과 및 만기 후 수령액 시뮬레이션 |
-| ETF | 테마 / 카테고리별 ETF 조회 | 다양한 조건(테마/카테고리)으로 ETF 탐색 가능 |
-| ETF | 투자 성향 테스트 | 투자 성향을 진단하고 맞춤 ETF를 추천 |
-| ETF | ETF 차트 및 구성 | 종목별 구성 비중 및 수익률 차트 제공 |
-| 퀴즈 | 금융 퀴즈 | 퀴즈로 금융 지식을 점검하고 캘린더에 기록 |
-| 챌린지 | 퀴즈 보상 시스템 | 일정 조건을 달성하면 보상 수령 가능 |
-
-
-<br>
-<br>
-
-## 📁 폴더 구조
-| app/ | App Router 기반 페이지, 액션, API 라우트 구성 |
-| --- | --- |
-| components/ | 서비스 전반적으로 사용되는, 재사용 가능한 공통 UI 컴포넌트 |
-| context/ | 클라이언트 상태 공유 (예: 헤더 컨텍스트) |
-| services/ | 핵심 알고리즘 계층 (ETF 추천, 리밸런싱 등) |
-| lib/ | DB 접근, API 호출, 인증 등 로직 |
-| data/ | 선택지, 기본값, 샘플 데이터 |
-| types/ | 공통 타입 정의 |
-| __tests__/, __mocks__/ | 테스트 및 의존성 모킹 코드 |
-| prisma/ | 데이터베이스 모델 및 마이그레이션 |
-| public/ | 정적 파일 (폰트, 이미지 등) |
-| 설정 파일들 | 린트, 프리티어, 타입스크립트, 패키지 관리 설정 |
-<br>
-<br>
-
-
-## 🛠 Tech Stack
+### 🛠 Tech Stack
 
 ### Platforms & Languages
 
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white"/><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/><img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white"/><img src="https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white"/><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/><img src="https://img.shields.io/badge/AWS RDS-527FFF?style=flat&logo=amazonrds&logoColor=white"/><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white"/> <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/AWS RDS-527FFF?style=flat&logo=amazonrds&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white"/>
 
 ### Deployment & Version Control
 
-<img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white"/><img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
 
 ### Development Environment
 
-<img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat&logo=intellijidea&logoColor=white"/><img src="https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat&logo=intellijidea&logoColor=white"/> <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/>
 
 ### Communication & Management
 
-<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white"/>
+<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white"/> <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white"/> <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white"/>
 
+<br/>
 
-<br>
-<br>
+### 🥕 서비스 신뢰도를 위한 테스트
 
-## 📌 API 문서 요약
+ISAID 서비스는 다양하고 포괄적인 테스트 케이스를 통해 서비스의 안정성과 신뢰도를 검증했어요. 
 
-
-
-### 👤 사용자 (User)
-
-| 메서드 | 경로 | 설명 |
-|--------|------|------|
-| `POST` | `/api/auth/join` | 회원가입 |
-| `POST` | `/api/auth/callback/credentials` | 로그인 (Credential 기반) |
-| `PATCH` | `/api/user/update` | 회원정보 수정 |
-| `DELETE` | `/api/user/delete` | 회원 탈퇴 |
-| `GET` | `/api/user/me` | 내 정보 조회 |
-| `POST` | `/api/user/verify-pin` | PIN 인증 |
-| `PATCH` | `/api/user/reward-agree` | 보상 동의 |
-
-
-
-### 💹 ETF
-
-| 메서드 | 경로 | 설명 |
-|--------|------|------|
-| `GET` | `/api/etf/theme/{themeSlug}` | 테마별 ETF 리스트 조회 |
-| `GET` | `/api/etf/category/{categoryId}` | 카테고리별 ETF 리스트 조회 |
-| `GET` | `/api/etf/recommend` | 사용자 맞춤 ETF 추천 |
-| `GET` | `/api/etf/{etfId}` | 개별 ETF 상세 정보 조회 |
-| `GET` | `/api/etf/{etfId}/chart?range={period}` | ETF 기간별 차트 데이터 조회 |
-| `GET` | `/api/etf/{etfId}/pdf` | ETF 구성 비중 PDF 반환 |
-| `GET` | `/api/etf/portfolio` | 보유 ETF 상세 조회 |
-| `GET` | `/api/etf/mbti` | 투자 성향 및 선호 카테고리 조회 |
-| `POST` | `/api/etf/mbti` | 투자 성향 및 선호 카테고리 저장 |
-
-
-
-### 💼 ISA
-
-| 메서드 | 경로 | 설명 |
-|--------|------|------|
-| `POST` | `/api/isa` | ISA 계좌 등록 |
-| `GET` | `/api/isa` | ISA 계좌 목록 조회 |
-| `DELETE` | `/api/isa` | ISA 계좌 삭제 |
-| `GET` | (서버액션) | 수익률 조회 |
-| `GET` | (서버액션) | 포트폴리오 조회 |
-| `POST` | `/api/isa/save` | 절세 계산기 |
-| `GET` | `/api/isa/rebalancing` | 포트폴리오 리밸런싱 추천 |
-
-
-### 🧠 금융 퀴즈 (Quiz)
-
-| 메서드 | 경로 | 설명 |
-|--------|------|------|
-| `GET` | `/api/quiz/question` | 퀴즈 가져오기 |
-| `POST` | `/api/quiz/question/submit` | 정답 제출 및 캘린더 기록 |
-| `GET` | `/api/quiz/calendar` | 퀴즈 달력 조회 |
-
-
-
-### 🏆 챌린지 (Challenge)
-
-| 메서드 | 경로 | 설명 |
-|--------|------|------|
-| `POST` | `/api/challenge/claim` | 보상 수령 요청 |
-
-<br>
-<br>
-
-## 🧪 테스트
-
-ISAID 프로젝트는 포괄적인 테스트 스위트를 제공하여 코드의 안정성과 신뢰성을 보장합니다.
-
-### API 테스트
+`API 통합 테스트`
 
 | 테스트 파일 | API 경로 | 설명 |
 |-------------|----------|------|
@@ -200,7 +169,7 @@ ISAID 프로젝트는 포괄적인 테스트 스위트를 제공하여 코드의
 
 <br>
 
-### 서비스 테스트
+`서비스 로직 테스트`
 
 | 테스트 파일 | 서비스 | 설명 |
 |-------------|--------|------|
@@ -215,7 +184,7 @@ ISAID 프로젝트는 포괄적인 테스트 스위트를 제공하여 코드의
 
 <br>
 
-### 헬퍼 함수
+`헬퍼 함수`
 
 | 헬퍼 파일 | 설명 |
 |-----------|------|
@@ -225,7 +194,7 @@ ISAID 프로젝트는 포괄적인 테스트 스위트를 제공하여 코드의
 
 <br>
 
-### 테스트 환경
+`테스트 환경`
 
 | 항목 | 설명 |
 |------|------|
@@ -233,11 +202,3 @@ ISAID 프로젝트는 포괄적인 테스트 스위트를 제공하여 코드의
 | **실행 환경** | Node.js (`@jest-environment node`) |
 | **모킹** | Prisma, NextAuth, 외부 서비스 |
 | **스냅샷 테스트** | UI 컴포넌트 스냅샷 테스트 지원 |
-
-<br>
-<br>
-
-## 팀원 소개
-| <img src="https://avatars.githubusercontent.com/dbstj0403" width="130"/> | <img src="https://avatars.githubusercontent.com/HyejeongSon" width="130"/> | <img src="https://avatars.githubusercontent.com/hyo-joon" width="130"/> | <img src="https://avatars.githubusercontent.com/jjinleee" width="130"/> | <img src="https://avatars.githubusercontent.com/KimGiii" width="130"/> | <img src="https://avatars.githubusercontent.com/VarGun" width="130"/> |
-|:--:|:--:|:--:|:--:|:--:|:--:|
-| **Yoonseo**<br>[@dbstj0403](https://github.com/dbstj0403)<br/> | **Hyejeong Son**<br>[@HyejeongSon](https://github.com/HyejeongSon)<br/> | **Hyo-joon**<br>[@hyo-joon](https://github.com/hyo-joon)<br/> | **Jin Lee**<br>[@jjinleee](https://github.com/jjinleee)<br/>| **Gibo Kim**<br>[@KimGiii](https://github.com/KimGiii)<br/> | **Heegun Kwak**<br>[@VarGun](https://github.com/VarGun)<br/> |
